@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mJOOhJ_NYkuDj1krmQ24wA" Reference="t4Tcn7EXDE6d6pTi8LH47Q/0Ha0CJJK5EehTsAkUDr-hg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" CVScreenId="dfe7ca8c-acb5-4304-91a1-eee7cfc2595f" CvElementArea="372, 160, 227, 36" CvType="InputBox" DesignTimeRectangle="362, 5, 224, 33" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl parentid='search-input' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='search-input' tag='DIV' type='' class='css-1vfx2mf' aaname='' /&gt;" Guid="6e520911-70e9-417a-a13e-92cb785eafb2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dfe7ca8c-acb5-4304-91a1-eee7cfc2595f" CvElementArea="372, 160, 227, 36" CvType="InputBox" DesignTimeRectangle="363, 6, 182, 31" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='css-18os3v4' placeholder='SEARCH' aaname='' /&gt;" Guid="47caf836-295f-4517-b80a-804d8dbefe56" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8514d9f3c2e90473b0cba0e3ea9f54e6.png" xmlns="">0-MKznRgjGEm5d9qa3_bgsQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

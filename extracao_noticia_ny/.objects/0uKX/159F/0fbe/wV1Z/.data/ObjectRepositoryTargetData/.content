@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Q_CLPRsJEEub8xZsH2fEFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="1ebfc617-6765-4d52-bdc9-2eaa905e32f5" DesignTimeRectangle="474, 293, 190, 41" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Refine results via Section' parentid='site-content' tag='BUTTON' type='button' /&gt;" Guid="f4b24b2d-c181-4fe7-8401-f19a45bca2d5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1ebfc617-6765-4d52-bdc9-2eaa905e32f5" CvTextArea="484, 308, 42, 11" CvTextArgument="Section" CvType="Text" DesignTimeRectangle="486, 307, 39, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Section' tag='LABEL' type='' class='css-4ps6by' check:innerText='Refine results via&amp;#xA;Section' /&gt;" Guid="2aac442c-cf74-4736-8046-b53f5387ed58" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0b7c7bb6d90352cea55da354e0aaaa47.png" xmlns="">0gyd3WomwMUy2zpaQ55t2nA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

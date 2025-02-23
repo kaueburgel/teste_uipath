@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XTNVGV-hKEOgTu8XOedOvw" Reference="t4Tcn7EXDE6d6pTi8LH47Q/umhbhhpJIkmK1B4nVC88Hg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="12, 204, 1897, 144" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' parentid='site-content' tag='DIV' class='css-1npexfx' aaname='' /&gt;" Guid="0b5c41dc-7ada-4c76-90dd-5ef97d075342" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d29cfae84d52fcf567ab7312e41e9608.png" xmlns="">0iTipc-pgWEKuD3-wgy5ZEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

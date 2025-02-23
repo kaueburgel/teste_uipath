@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Refine results via Sect…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "34AvARDCVkuRbdaaEZ9qpQ",
+  "Reference": "t4Tcn7EXDE6d6pTi8LH47Q/34AvARDCVkuRbdaaEZ9qpQ",
+  "ParentRef": "t4Tcn7EXDE6d6pTi8LH47Q/0fbeie-Tn0ajUIoo_YHsvw",
+  "Created": "2025-02-23T16:15:02.9168217Z",
+  "Updated": "2025-02-23T16:15:02.9168217Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nSMUoB1pFkSFMxpZ6ENCQg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="static01.nyt.com/images/2022/11/06/magazine/06mag-mariachi/06mag-mariachi-threeByTwoSmallAt2X.jpg" CVScreenId="4876afcc-ea00-4251-872c-6da149355f53" DesignTimeRectangle="668, 399, 600, 400" DesignTimeScaleFactor="1" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='IMG' /&gt;" Guid="636acd0c-802a-4d87-8b50-265d545fbd87" ScopeSelectorArgument="&lt;html app='msedge.exe' title='06mag-mariachi-threeByTwoSmallAt2X.jpg (600×400)' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c587d153576eb8e369ce50c1381d3e85.png" xmlns="">052FWv9jB8US4pzjK1g4a6A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

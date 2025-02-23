@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aMscm9uiv0GrOO_V48d3lQ" Reference="t4Tcn7EXDE6d6pTi8LH47Q/71sf7k1QGE2Zr4Otp_e7pg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" DesignTimeRectangle="333, 162, 34, 33" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='SEARCH' parentid='app' tag='BUTTON' /&gt;" Guid="df385057-040f-445d-b9e3-d3dc11b39820" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5029d379dd16f8fd1717195b2f28356a.png" xmlns="">0SO0VM7TgD0iK0sfdt3ShnA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

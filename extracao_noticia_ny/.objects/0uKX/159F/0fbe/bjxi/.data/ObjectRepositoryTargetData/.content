@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dmVsqM8PfUy7I-bjg-rgMw" Reference="t4Tcn7EXDE6d6pTi8LH47Q/bjxifaORfkiVgH1-H48iMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" CVScreenId="ffb1c97e-92c2-4f73-9f6e-1a1925d63cf9" DesignTimeRectangle="375, 163, 182, 31" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="da4d7326-2f3e-4c29-adb9-f885c38bb2be" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bf3c47475ebc4569e452eafd122b0602.png" xmlns="">0U-6EZUqiVU6gthDlzpZ5vA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

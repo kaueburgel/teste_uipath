@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0c0g8iZBIUSplwLcfmjodQ" Reference="t4Tcn7EXDE6d6pTi8LH47Q/9_exyTCUp02HpZvMHGo5Hg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="abb34bf6-e464-4d2c-8f0b-e4275c766aa4" CvTextArea="541, 233, 115, 12" CvType="AnyWordGroup" DesignTimeRectangle="541, 232, 840, 14" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='site-content' tag='P' type='' class='css-nayoou' /&gt;" Guid="260269fc-513f-4329-b6c1-da058416cd58" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The New York Times - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ee42b4d3d8a2bf15c63f078a733f4bd9.png" xmlns="">0AgjSkcJkqU6Sb-HhZi6XeQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
